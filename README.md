@@ -23,7 +23,8 @@ mfe-atelier-prenom-nom/
     ├── webpack.config.js
     └── package.json
 
-Prérequis
+
+## Prérequis
 Node.js installé sur ta machine.
 npm (fourni avec Node.js).
 Installation
