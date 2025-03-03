@@ -74,4 +74,3 @@ Le Shell est servi sur le port 3000. Ouvre http://localhost:3000 dans ton naviga
 ## Dépendances Partagées
 
 Si vous utilisez des bibliothèques communes (comme React), pensez à les ajouter dans la section `shared` de la configuration Module Federation pour éviter les duplications.
-```
